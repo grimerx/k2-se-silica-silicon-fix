@@ -1,0 +1,6 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.0.1
+Date:13-4-2022
+  Changes
+    - Initial release
+    - Updated the simple Electronic Components recipe to use graphite instead of silicon wafers to allow progression to chemical tech cards.
